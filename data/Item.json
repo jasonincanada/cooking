@@ -1,0 +1,425 @@
+[
+{
+  "model": "recipes.item",
+  "pk": 1,
+  "fields": {
+    "code": "gr-beef",
+    "section": 1,
+    "name": "Ground Beef"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 2,
+  "fields": {
+    "code": "sw-bel-pep",
+    "section": 2,
+    "name": "Sweet Bell Pepper"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 3,
+  "fields": {
+    "code": "rig",
+    "section": 3,
+    "name": "Rigatoni"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 4,
+  "fields": {
+    "code": "cr-chs",
+    "section": 4,
+    "name": "Cream Cheese"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 5,
+  "fields": {
+    "code": "moz-shr",
+    "section": 4,
+    "name": "Mozarella Cheese, Shredded"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 6,
+  "fields": {
+    "code": "parm-chs",
+    "section": 3,
+    "name": "Parmesan Cheese"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 7,
+  "fields": {
+    "code": "ital-ssn",
+    "section": 7,
+    "name": "Italian Seasoning"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 8,
+  "fields": {
+    "code": "cru-tom",
+    "section": 3,
+    "name": "Crushed Tomatoes"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 9,
+  "fields": {
+    "code": "bab-spin",
+    "section": 8,
+    "name": "Baby Spinach"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 10,
+  "fields": {
+    "code": "oil-ex-vir",
+    "section": null,
+    "name": "Extra Virgin Olive Oil"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 11,
+  "fields": {
+    "code": "rus-pot",
+    "section": 8,
+    "name": "Russet Potato"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 12,
+  "fields": {
+    "code": "sour-cr",
+    "section": 4,
+    "name": "Sour Cream"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 13,
+  "fields": {
+    "code": "ched-chs-shrd",
+    "section": 4,
+    "name": "Cheddar Cheese, shredded"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 14,
+  "fields": {
+    "code": "grn-onion",
+    "section": 8,
+    "name": "Green Onion"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 15,
+  "fields": {
+    "code": "bbq-ssn",
+    "section": 7,
+    "name": "BBQ Seasoning"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 16,
+  "fields": {
+    "code": "bbq-sauce",
+    "section": 9,
+    "name": "BBQ Sauce"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 17,
+  "fields": {
+    "code": "pnk-br",
+    "section": null,
+    "name": "Panko Breadcrumbs"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 18,
+  "fields": {
+    "code": "carr-jul",
+    "section": 8,
+    "name": "Carrot, julienned"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 19,
+  "fields": {
+    "code": "whi-win-vin",
+    "section": 9,
+    "name": "White Wine Vinegar"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 20,
+  "fields": {
+    "code": "sugar",
+    "section": 7,
+    "name": "Sugar"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 21,
+  "fields": {
+    "code": "prk-tend",
+    "section": 8,
+    "name": "Pork Tenderloin"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 22,
+  "fields": {
+    "code": "oreg",
+    "section": 7,
+    "name": "Oregano"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 23,
+  "fields": {
+    "code": "red-pot",
+    "section": 8,
+    "name": "Red Potato"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 24,
+  "fields": {
+    "code": "dij-must",
+    "section": 9,
+    "name": "Dijon Mustard"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 25,
+  "fields": {
+    "code": "broc-flor",
+    "section": 8,
+    "name": "Broccoli, florets"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 26,
+  "fields": {
+    "code": "honey",
+    "section": 9,
+    "name": "Honey"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 27,
+  "fields": {
+    "code": "chick-bro-con",
+    "section": 7,
+    "name": "Chicken Broth Concentrate"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 28,
+  "fields": {
+    "code": "corn-st",
+    "section": null,
+    "name": "Cornstarch"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 29,
+  "fields": {
+    "code": "uns-but",
+    "section": 4,
+    "name": "Unsalted Butter"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 30,
+  "fields": {
+    "code": "chick-br",
+    "section": 8,
+    "name": "Chicken Breast"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 31,
+  "fields": {
+    "code": "red-on",
+    "section": 8,
+    "name": "Red Onion"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 32,
+  "fields": {
+    "code": "gre-bel-pep",
+    "section": 8,
+    "name": "Green Bell Pepper"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 33,
+  "fields": {
+    "code": "mex-ssn",
+    "section": 7,
+    "name": "Mexican Seasoning"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 34,
+  "fields": {
+    "code": "flo-tort",
+    "section": 10,
+    "name": "Flour Tortilla"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 35,
+  "fields": {
+    "code": "flour",
+    "section": null,
+    "name": "Flour"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 36,
+  "fields": {
+    "code": "sli-alm",
+    "section": null,
+    "name": "Almonds, sliced"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 37,
+  "fields": {
+    "code": "mayo",
+    "section": 9,
+    "name": "Mayonnaise"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 38,
+  "fields": {
+    "code": "swe-pot",
+    "section": 8,
+    "name": "Sweet Potato"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 39,
+  "fields": {
+    "code": "map-syr",
+    "section": 9,
+    "name": "Maple Syrup"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 40,
+  "fields": {
+    "code": "gar",
+    "section": 8,
+    "name": "Garlic"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 41,
+  "fields": {
+    "code": "gre-bean",
+    "section": 8,
+    "name": "Green Beans"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 42,
+  "fields": {
+    "code": "corn-ker",
+    "section": 11,
+    "name": "Corn, kernels"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 43,
+  "fields": {
+    "code": "bas-ric",
+    "section": null,
+    "name": "Basmati Rice"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 44,
+  "fields": {
+    "code": "rom-tom",
+    "section": 8,
+    "name": "Roma Tomato"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 45,
+  "fields": {
+    "code": "cilan",
+    "section": 8,
+    "name": "Cilantro"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 46,
+  "fields": {
+    "code": "lime",
+    "section": 8,
+    "name": "Lime"
+  }
+},
+{
+  "model": "recipes.item",
+  "pk": 48,
+  "fields": {
+    "code": "yel-pot",
+    "section": 8,
+    "name": "Yellow Potato"
+  }
+}
+]

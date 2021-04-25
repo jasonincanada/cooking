@@ -1,0 +1,50 @@
+[
+{
+  "model": "recipes.unit",
+  "pk": 1,
+  "fields": {
+    "code": "g",
+    "description": "grams"
+  }
+},
+{
+  "model": "recipes.unit",
+  "pk": 2,
+  "fields": {
+    "code": "tbsp",
+    "description": "tablespoons"
+  }
+},
+{
+  "model": "recipes.unit",
+  "pk": 3,
+  "fields": {
+    "code": "ml",
+    "description": "milliliters"
+  }
+},
+{
+  "model": "recipes.unit",
+  "pk": 4,
+  "fields": {
+    "code": "cup",
+    "description": "cups"
+  }
+},
+{
+  "model": "recipes.unit",
+  "pk": 5,
+  "fields": {
+    "code": "unit",
+    "description": "units"
+  }
+},
+{
+  "model": "recipes.unit",
+  "pk": 6,
+  "fields": {
+    "code": "tsp",
+    "description": "teaspoon"
+  }
+}
+]

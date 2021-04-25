@@ -1,0 +1,20 @@
+[
+{
+  "model": "recipes.trip",
+  "pk": 1,
+  "fields": {
+    "source": 1,
+    "when": "2021-04-25T19:12:14.493Z",
+    "comments": null
+  }
+},
+{
+  "model": "recipes.trip",
+  "pk": 2,
+  "fields": {
+    "source": 1,
+    "when": "2021-04-18T16:00:00Z",
+    "comments": null
+  }
+}
+]

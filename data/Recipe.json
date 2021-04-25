@@ -1,0 +1,56 @@
+[
+{
+  "model": "recipes.recipe",
+  "pk": 1,
+  "fields": {
+    "code": "beef-tomato-bake-rig-parm",
+    "name": "Cheesy Beef and Tomato Bake",
+    "extended": "with Rigatoni and Parmesan"
+  }
+},
+{
+  "model": "recipes.recipe",
+  "pk": 2,
+  "fields": {
+    "code": "gl-beef-mt",
+    "name": "Glazed Beef Meatballs",
+    "extended": "with Loaded Potato Wedges and Side Salad"
+  }
+},
+{
+  "model": "recipes.recipe",
+  "pk": 3,
+  "fields": {
+    "code": "mus-pork-bro",
+    "name": "Mustard and Herb-Crusted Pork",
+    "extended": "with Roasted Potatoes and Broccoli"
+  }
+},
+{
+  "model": "recipes.recipe",
+  "pk": 4,
+  "fields": {
+    "code": "chick-ench",
+    "name": "Cheesy Chicken Enchiladas",
+    "extended": "with Sour Cream"
+  }
+},
+{
+  "model": "recipes.recipe",
+  "pk": 5,
+  "fields": {
+    "code": "alm-chick",
+    "name": "Almond-Crusted Chicken",
+    "extended": "with Sweet Potato Maple Mash"
+  }
+},
+{
+  "model": "recipes.recipe",
+  "pk": 6,
+  "fields": {
+    "code": "faj-chick-bowl",
+    "name": "Fajita-Style Chicken Bowl",
+    "extended": "with Basmati Rice and Lime Crema"
+  }
+}
+]

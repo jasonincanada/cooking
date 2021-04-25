@@ -1,0 +1,72 @@
+[
+{
+  "model": "recipes.section",
+  "pk": 1,
+  "fields": {
+    "name": "Meats"
+  }
+},
+{
+  "model": "recipes.section",
+  "pk": 2,
+  "fields": {
+    "name": "Fruits"
+  }
+},
+{
+  "model": "recipes.section",
+  "pk": 3,
+  "fields": {
+    "name": "Pasta"
+  }
+},
+{
+  "model": "recipes.section",
+  "pk": 4,
+  "fields": {
+    "name": "Fridge"
+  }
+},
+{
+  "model": "recipes.section",
+  "pk": 5,
+  "fields": {
+    "name": "Dairy"
+  }
+},
+{
+  "model": "recipes.section",
+  "pk": 7,
+  "fields": {
+    "name": "Spices"
+  }
+},
+{
+  "model": "recipes.section",
+  "pk": 8,
+  "fields": {
+    "name": "Produce"
+  }
+},
+{
+  "model": "recipes.section",
+  "pk": 9,
+  "fields": {
+    "name": "Condiments"
+  }
+},
+{
+  "model": "recipes.section",
+  "pk": 10,
+  "fields": {
+    "name": "Bakery"
+  }
+},
+{
+  "model": "recipes.section",
+  "pk": 11,
+  "fields": {
+    "name": "Frozen"
+  }
+}
+]
