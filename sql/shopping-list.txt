@@ -1,0 +1,45 @@
+Bakery|Flour Tortilla|6.0|unit
+Condiments|BBQ Sauce|0.25|cup
+Condiments|Dijon Mustard|2.0|tbsp
+Condiments|Honey|1.0|tbsp
+Condiments|Maple Syrup|1.0|tbsp
+Condiments|Mayonnaise|2.0|tbsp
+Condiments|White Wine Vinegar|1.0|tbsp
+Fridge|Cheddar Cheese, shredded|1.5|cup
+Fridge|Cream Cheese|3.0|tbsp
+Fridge|Mozarella Cheese, Shredded|0.75|cup
+Fridge|Sour Cream|15.0|tbsp
+Fridge|Unsalted Butter|4.0|tbsp
+Frozen|Corn, kernels|56.0|g
+Fruits|Sweet Bell Pepper|160.0|g
+Meats|Ground Beef|500.0|g
+Pasta|Crushed Tomatoes|370.0|ml
+Pasta|Parmesan Cheese|0.25|cup
+Pasta|Rigatoni|170.0|g
+Produce|Baby Spinach|56.0|g
+Produce|Broccoli, florets|227.0|g
+Produce|Carrot, julienned|56.0|g
+Produce|Chicken Breast|5.0|unit
+Produce|Cilantro|7.0|g
+Produce|Garlic|12.0|g
+Produce|Green Beans|170.0|g
+Produce|Green Bell Pepper|400.0|g
+Produce|Green Onion|2.0|unit
+Produce|Lime|1.0|unit
+Produce|Pork Tenderloin|340.0|g
+Produce|Red Onion|56.0|g
+Produce|Red Potato|300.0|g
+Produce|Roma Tomato|80.0|g
+Produce|Russet Potato|460.0|g
+Produce|Sweet Potato|340.0|g
+Spices|BBQ Seasoning|1.0|tbsp
+Spices|Chicken Broth Concentrate|2.0|unit
+Spices|Italian Seasoning|0.5|tbsp
+Spices|Mexican Seasoning|2.0|tbsp
+Spices|Oregano|7.0|g
+Spices|Sugar|0.5|tsp
+other|Almonds, sliced|28.0|g
+other|Basmati Rice|0.75|cup
+other|Cornstarch|1.0|tbsp
+other|Flour|0.5|tbsp
+other|Panko Breadcrumbs|0.75|cup
