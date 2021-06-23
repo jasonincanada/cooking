@@ -5,7 +5,8 @@
   "fields": {
     "code": "beef-tomato-bake-rig-parm",
     "name": "Cheesy Beef and Tomato Bake",
-    "extended": "with Rigatoni and Parmesan"
+    "extended": "with Rigatoni and Parmesan",
+    "source": "https://www.hellofresh.ca/recipes/cheesy-beef-and-tomato-bake-603e2b0fe478ba24f157cb24"
   }
 },
 {
@@ -14,7 +15,8 @@
   "fields": {
     "code": "gl-beef-mt",
     "name": "Glazed Beef Meatballs",
-    "extended": "with Loaded Potato Wedges and Side Salad"
+    "extended": "with Loaded Potato Wedges and Side Salad",
+    "source": "https://www.hellofresh.ca/recipes/glazed-beef-meatballs-5ff44a983115cd6d2d317e57"
   }
 },
 {
@@ -23,7 +25,8 @@
   "fields": {
     "code": "mus-pork-bro",
     "name": "Mustard and Herb-Crusted Pork",
-    "extended": "with Roasted Potatoes and Broccoli"
+    "extended": "with Roasted Potatoes and Broccoli",
+    "source": "https://www.hellofresh.ca/recipes/mustard-and-herb-crusted-pork-5ab3fba3ae08b573355109f2"
   }
 },
 {
@@ -32,7 +35,8 @@
   "fields": {
     "code": "chick-ench",
     "name": "Cheesy Chicken Enchiladas",
-    "extended": "with Sour Cream"
+    "extended": "with Sour Cream",
+    "source": "https://www.hellofresh.ca/recipes/cheesy-chicken-enchiladas-598c811651d3f1759c736df2"
   }
 },
 {
@@ -41,7 +45,8 @@
   "fields": {
     "code": "alm-chick",
     "name": "Almond-Crusted Chicken",
-    "extended": "with Sweet Potato Maple Mash"
+    "extended": "with Sweet Potato Maple Mash",
+    "source": "https://www.hellofresh.ca/recipes/almond-crusted-chicken-5c6efde6e3f339335f23eb92"
   }
 },
 {
@@ -50,7 +55,8 @@
   "fields": {
     "code": "faj-chick-bowl",
     "name": "Fajita-Style Chicken Bowl",
-    "extended": "with Basmati Rice and Lime Crema"
+    "extended": "with Basmati Rice and Lime Crema",
+    "source": "https://www.hellofresh.ca/recipes/fajita-style-chicken-bowl-602bc7742a6f07103b1f3693"
   }
 }
 ]
