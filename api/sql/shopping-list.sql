@@ -7,9 +7,9 @@ SELECT
   SUM(ingr.amount),
   unit.code
 
-FROM recipes_recipe r
+FROM recipes_ingredient ingr
 
-JOIN recipes_ingredient ingr ON ingr.recipe_id = r.id
+JOIN recipes_recipe     r    ON r.id    = ingr.recipe_id
 JOIN recipes_item       item ON item.id = ingr.item_id
 JOIN recipes_unit       unit ON unit.id = ingr.units_id
 
