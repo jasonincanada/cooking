@@ -40,6 +40,7 @@ class Recipe(models.Model):
   code     = models.CharField(max_length=40)
   name     = models.CharField(max_length=100, blank=False, null=False)
   extended = models.CharField(max_length=100, blank=True, null=True)
+  source   = models.CharField(max_length=1000, blank=True)
 
   class Meta:
     constraints = [ models.UniqueConstraint(name='recipe_code_unique',
